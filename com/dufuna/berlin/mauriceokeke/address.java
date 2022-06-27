@@ -2,7 +2,7 @@ package com.dufuna.berlin.mauriceokeke;
 
 public class address {
     public static void main(String[] args) {
-        System.out.println("Hello Maurice");
+        System.out.println("Hello World!");
     }
 }
 
